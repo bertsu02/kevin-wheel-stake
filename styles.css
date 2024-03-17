@@ -1,5 +1,7 @@
 body {
-    background-color: black;
+    background-image: url("reyna_back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #app {
   width: 800px;
