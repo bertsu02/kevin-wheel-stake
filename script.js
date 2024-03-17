@@ -26,21 +26,21 @@
    function determineArea(deg) {
     const areas = [
   { name: 'Try Again', startDeg: 0, endDeg: 22.49 },
-  { name: '20$ Buy 50/50', startDeg: 22.5, endDeg: 45 },
-  { name: 'RESPIN', startDeg: 45.01, endDeg: 67.49 },
+  { name: '10$ TIP', startDeg: 22.5, endDeg: 45 },
+  { name: '20$ Bonus Buy 50/50', startDeg: 45.01, endDeg: 67.49 },
   { name: '50 $1 Spins', startDeg: 67.5, endDeg: 90 },
   { name: 'Try Again', startDeg: 90.01, endDeg: 112.49 },
-  { name: '25 $2.5 Spins', startDeg: 112.5, endDeg: 135 },
-  { name: 'RESPIN', startDeg: 135.01, endDeg: 157.49 },
-  { name: '10$ Tip', startDeg: 157.5, endDeg: 180 },
+  { name: '20 $5 Spins', startDeg: 112.5, endDeg: 135 },
+  { name: '$100 Buy, 100x = Tip', startDeg: 135.01, endDeg: 157.49 },
+  { name: '$60 Buy, 100x = Tip', startDeg: 157.5, endDeg: 180 },
   { name: 'Try Again', startDeg: 180.01, endDeg: 202.49 },
-  { name: '20$ Buy 50/50', startDeg: 202.5, endDeg: 225 },
-  { name: 'RESPIN', startDeg: 225.01, endDeg: 247.49 },
+  { name: '25 $3 Spins', startDeg: 202.5, endDeg: 225 },
+  { name: '20$ Bonus Buy 50/50', startDeg: 225.01, endDeg: 247.49 },
   { name: '25 2.5$ Spins', startDeg: 247.5, endDeg: 270 },
   { name: 'Try Again', startDeg: 270.01, endDeg: 292.49 },
-  { name: '25 3$ Spins', startDeg: 292.5, endDeg: 315 },
-  { name: 'RESPIN', startDeg: 315.01, endDeg: 337.49 },
-  { name: '50 $1 Spins', startDeg: 337.5, endDeg: 360 },
+  { name: '25 $3.5 Spins', startDeg: 292.5, endDeg: 315 },
+  { name: '5$ Tip', startDeg: 315.01, endDeg: 337.49 },
+  { name: '25 2.5$ Spins', startDeg: 337.5, endDeg: 360 },
 
     ];
 
