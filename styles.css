@@ -1,7 +1,7 @@
 body {
     background-image: url("reyna_back.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 #app {
   width: 800px;
