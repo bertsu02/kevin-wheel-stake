@@ -50,7 +50,7 @@
       }
     }
 
-    return 'No area found';
+    return 'Dead Center - RESPIN';
   }
 
   function displayMessage(area) {
