@@ -68,7 +68,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-image: linear-gradient(to right,  #5f16c8 , #9EA300);
+  background-image: linear-gradient(to right,  #5f16c8 , #01dd01);
   padding: 50px;
   border-radius: 10px;
   text-align: center;
